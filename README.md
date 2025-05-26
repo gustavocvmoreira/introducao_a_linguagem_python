@@ -32,3 +32,4 @@ O material foi desenvolvido e elaborado por mim, Prof. Gustavo Moreira, do Depar
 
 [![Parte 6 - Análise e visualização de dados](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpyhxB1J7quc%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=pyhxB1J7quc&ab_channel=Gustavo)
 
+
