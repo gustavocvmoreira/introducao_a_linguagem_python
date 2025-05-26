@@ -22,7 +22,7 @@ O material foi desenvolvido e elaborado por mim, Prof. Gustavo Moreira, do Depar
 
 ### Parte 4 - Explorando dataframes:
 
-[![Parte 4 - Explorando dataframes](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGw3vp-M-vWo%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=Gw3vp-M-vWo&ab_channel=Gustavo)
+[![Parte 4 - Explorando dataframes](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DET2ld3ubjcg%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=ET2ld3ubjcg&ab_channel=Gustavo)
 
 ### Parte 5 - Importando dados:
 
@@ -30,4 +30,5 @@ O material foi desenvolvido e elaborado por mim, Prof. Gustavo Moreira, do Depar
 
 ### Parte 6 - Análise e visualização de dados:
 
-[![Parte 6 - Análise e visualização de dados](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlA-MYCeLXxs%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=lA-MYCeLXxs&ab_channel=Gustavo)
+[![Parte 6 - Análise e visualização de dados](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpyhxB1J7quc%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=pyhxB1J7quc&ab_channel=Gustavo)
+
