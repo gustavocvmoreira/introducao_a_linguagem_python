@@ -8,9 +8,11 @@ O material foi desenvolvido e elaborado por mim, Prof. Gustavo Moreira, do Depar
 
 ***
 
-### Parte 1 - aspectos gerais do software:
+### Parte 1 - Aspectos Gerais:
 
-[![Parte 1 - Aspectos gerais](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWjFRP-F-ji4%26ab_channel%3DGustavo)](https://www.youtube.com/watch?v=WjFRP-F-ji4&ab_channel=Gustavo)
+<a href="https://www.youtube.com/watch?v=WjFRP-F-ji4&ab_channel=Gustavo" target="_blank">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWjFRP-F-ji4%26ab_channel%3DGustavo" alt="Parte 1 - Aspectos gerais"/>
+</a>
 
 ### Parte 2 - Introdução ao Google Colab:
 
